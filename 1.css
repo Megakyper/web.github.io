@@ -88,7 +88,7 @@ h2:hover{
 
 a{
     color: rgba(55, 153, 251,0.9);
-    text-decoration-line: none;
+    text-decoration-line:line-through;
 }
 
 div.social-links span.fa-facebook{
