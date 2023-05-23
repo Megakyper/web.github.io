@@ -45,8 +45,8 @@ div.output :hover{
     transition-timing-function:cubic-bezier(0.39, 0.575, 0.565, 1);
     transition-delay: 150ms;
     transform:scale(1.1);
-    -webkit-filter: brightness(0.7);
-    filter: brightness(0.7);
+    -webkit-filter: brightness(1.2);
+    filter: brightness(1.2);
 }
 
 div.image img{
@@ -82,8 +82,8 @@ h2{
 
 h2:hover{
     transform: scale(0.8);
-    -webkit-filter: brightness(0.7);
-    filter: brightness(0.7);
+    -webkit-filter: brightness(1.2);
+    filter: brightness(1.2);
 }
 
 a{
